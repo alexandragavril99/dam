@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/adaugaSesizare"
+        android:title="@string/adauga_sesizare"/>
+    <item android:id="@+id/listaSesizari"
+        android:title="@string/lista_sesizari"/>
+    <item android:id="@+id/preluareSesizariJSON"
+        android:title="@string/preluare_json"/>
+    <item android:id="@+id/preluareSesizariXML"
+        android:title="@string/preluare_xml"/>
+    <item android:id="@+id/raport"
+        android:title="@string/raport"/>
+    <item android:id="@+id/despre"
+        android:title="@string/despre"/>
+</menu>

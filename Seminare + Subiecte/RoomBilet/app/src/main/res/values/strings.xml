@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RoomBilet</string>
+    <string name="doctor">Doctor</string>
+    <string name="adauga">Adauga</string>
+    <string name="nume">Nume</string>
+    <string name="Email">Email</string>
+    <string name="adauga_personal">Adauga personal</string>
+    <string name="alfabetic">Alfabetic</string>
+    <string name="invers_alfabetic">Invers alfabetic</string>
+    <string name="crescator_dupa_camp_numeric">Crescator dupa camp numeric</string>
+    <string name="descrescator_dupa_camp_numeric">Descrescator_dupa_camp_numeric</string>
+    <string name="crescator_a_z"><![CDATA[Crescator A->Z]]></string>
+    <string name="varsta">Varsta</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">seminar2</string>
+    <string name="username1">Username:</string>
+    <string name="password">Password:</string>
+    <string name="button">OK!</string>
+    <string name="username2">Username:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="name">Name:</string>
+    <string name="introduUsername">Introdu username-ul:</string>
+    <string name="introdu_email">Introdu email:</string>
+    <string name="introdu_parola">Introdu parola:</string>
+</resources>

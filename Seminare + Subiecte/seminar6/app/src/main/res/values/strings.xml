@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">seminar6</string>
+    <string name="textArataLista">Arata Lista!</string>
+    <string-array name="lista">
+        <item>www.google.com</item>
+        <item>www.instagram.com</item>
+        <item>www.google.com</item>
+        <item>www.youtube.com</item>
+    </string-array>
+</resources>

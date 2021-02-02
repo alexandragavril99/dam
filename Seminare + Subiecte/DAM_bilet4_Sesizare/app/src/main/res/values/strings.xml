@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DAM_bilet4_Sesizare</string>
+    <string name="adauga_sesizare">Adauga sesizare</string>
+    <string name="lista_sesizari">Lista sesizari</string>
+    <string name="preluare_sesizari_din_json_xml">Preluare sesizari din JSON/XML</string>
+    <string name="raport">Raport</string>
+    <string name="despre">Despre</string>
+    <string name="nume_student">Gavril Ana-Alexandra</string>
+    <string name="descriere">Descriere</string>
+    <string name="data">Data inregistrarii</string>
+    <string name="adauga">ADAUGA</string>
+    <string name="titlu">Titlu</string>
+    <string name="preluare_json">Preluare JSON</string>
+    <string name="preluare_xml">Preluare XML</string>
+
+    <string-array name="options">
+        <item>Drumuri</item>
+        <item>Personal</item>
+        <item>Iluminat</item>
+        <item>Gaze</item>
+        <item>Apa</item>
+        <item>Canalizare</item>
+    </string-array>
+</resources>

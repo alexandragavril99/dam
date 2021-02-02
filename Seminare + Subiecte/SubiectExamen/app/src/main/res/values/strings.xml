@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">1081_GavrilAnaAlexandra</string>
+    <string name="denumire">Denumire</string>
+    <string name="nr_calorii">Numar calorii</string>
+    <string name="gen_feminin">Feminin</string>
+    <string name="bifeaza">Bifeaza daca esti femeie</string>
+    <string name="adauga">Adauga</string>
+    <string name="adauga_exercitiu">Adauga exercitiu</string>
+    <string name="cauta_un_obiect">Cauta un item dupa denumire!</string>
+    <string name="introdu_denumire">Introdu denumire</string>
+    <string name="cauta">Cauta!</string>
+    <string name="sterge">Sterge</string>
+
+    <string-array name="options">
+        <item>Ambele</item>
+        <item>Brate</item>
+        <item>Picioare</item>
+    </string-array>
+</resources>

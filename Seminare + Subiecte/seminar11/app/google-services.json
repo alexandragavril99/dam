@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "651541194051",
+    "firebase_url": "https://fir-bb6df-default-rtdb.firebaseio.com",
+    "project_id": "fir-bb6df",
+    "storage_bucket": "fir-bb6df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651541194051:android:f2720ba0ab898fa0d27bf6",
+        "android_client_info": {
+          "package_name": "com.example.seminar11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651541194051-7muuven5ju3mfttoiaoffs8n0irscp6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA51bc2bbzkuGdQeuCIW93TPHMZRa5bDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651541194051-7muuven5ju3mfttoiaoffs8n0irscp6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

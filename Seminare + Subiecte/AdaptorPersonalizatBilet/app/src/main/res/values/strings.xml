@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AdaptorPersonalizatBilet</string>
+    <string name="denumire">Denumire</string>
+    <string name="nr_piese">Numar piese</string>
+    <string name="vara">Vara</string>
+    <string name="iarna">iarna</string>
+    <string name="adauga">ADAUGA</string>
+    <string name="adauga_echipament">Adauga echipament</string>
+    <string name="clasificare">Clasificare</string>
+    <string name="editare">Editare</string>
+</resources>

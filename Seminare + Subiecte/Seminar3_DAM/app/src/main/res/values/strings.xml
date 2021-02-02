@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Seminar3_DAM</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="tuser">Introduceti username-ul</string>
+    <string name="tparola">Introduceti parola</string>
+    <string name="nume">Nume</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="introduceti_numele">Introduceti numele</string>
+    <string name="introduceti_emailul">Introduceti emailul</string>
+    <string name="telefon">Introduceti numarul de telefon</string>
+    <string name="nume_">Nume:</string>
+    <string name="hint_nume">Introduceti nume</string>
+    <string name="telefon_">Telefon:</string>
+    <string name="hint_telefon">Introduceti numarul de telefon:</string>
+    <string name="data_">Alegeti o data:</string>
+    <string name="button_">Add call</string>
+    <string name="btn1">Button 1</string>
+    <string name="btn2">Button 2</string>
+</resources>
